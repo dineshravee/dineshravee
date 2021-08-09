@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dineshravee
 - 👀 I’m interested in Cloud and DevOps
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DevOps
+- 📫 ...
 
 <!---
 dineshravee/dineshravee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
